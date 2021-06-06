@@ -11,6 +11,11 @@
       "permanent": true
     },
     { 
+      "source": "/insta",
+      "destination": "https://instagram.com/matteogauthier_", 
+      "permanent": true
+    },
+    { 
       "source": "/twitter",
       "destination": "https://twitter.com/matteogauthier_", 
       "permanent": true
