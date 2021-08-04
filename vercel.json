@@ -6,6 +6,16 @@
       "permanent": false
     },
     { 
+      "source": "/cv",
+      "destination": "https://mattèo.dev/cv", 
+      "permanent": false
+    },
+    { 
+      "source": "/CV",
+      "destination": "https://mattèo.dev/cv", 
+      "permanent": false
+    },
+    { 
       "source": "/instagram",
       "destination": "https://instagram.com/matteogauthier_", 
       "permanent": true
